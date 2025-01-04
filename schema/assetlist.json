@@ -101,14 +101,14 @@
           }
         },
         "required": [
-          "description",
-          "denom_units",
-          "base",
-          "display",
-          "name",
-          "symbol",
-          "images",
-          "type_asset"
+          "The native token of GPT Wars",
+          "18",
+          "0xcB0DdC112EF317271266c83D7179Bf9186b9C658",
+          "gptw",
+          "GPT Wars",
+          "GPTW",
+          "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/GPTW_LOGO.png",
+          "erc20"
         ],
         "uniqueItems": true,
         "additionalProperties": false
